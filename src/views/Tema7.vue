@@ -9,7 +9,7 @@
 
     p.mb-5(data-aos="flip-down") La colocación a apilamiento de cubetas o bandejas de huevos es un requisito fundamental en los procesos de almacenaje, y en estos se debe tener en cuenta los procedimientos técnicos de calidad y transporte, distribución y comercialización.
 
-    .bloque-texto-g.bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-down")
+    .bloque-texto-g.bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema7/tema7-1.png')})`}"
       )

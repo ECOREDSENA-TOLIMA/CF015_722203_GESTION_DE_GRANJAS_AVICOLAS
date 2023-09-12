@@ -83,6 +83,26 @@
 
     p.mb-5(data-aos="fade-left") Los aspectos administrativos, contables, logísticos, control de inventarios y manejo de registros también se deben tener presentes en el centro de acopio de huevo con el fin de ofrecer un producto de calidad y buen servicio, para esto se implementan procedimientos como:
 
+    .row.justify-content-center.mb-5
+      .col-md-6.col-lg-5.col-12(data-aos="fade-right")
+        LineaTiempoD.color-secundario
+          p.text-small(numero="1" titulo="Proceso de inventario de huevos") Realizar un proceso de inventario de huevo, según los procedimientos establecidos para llevar un control.
+          
+          p.text-small(numero="2" titulo="Distribución") Distribuir en la bodega los lotes de huevos acopiados.
+          
+          p.text-small(numero="3" titulo="Ingreso de bandejas") Implementar el uso de listas de chequeo en el proceso de ingreso de las bandejas o cubetas de huevo en la bodega de almacenamiento, o centro de acopio. 
+          
+          p.text-small(numero="4" titulo="Documentación") Documentar el proceso de acopio de huevo de mesa, haciendo el uso de registros para su control.
+
+          p.text-small(numero="5" titulo="Novedades del proceso") Inspección y verificación de novedades en el proceso de acopio de huevo y, presentar propuestas de mejora.
+
+          p.text-small(numero="6" titulo="Planes de contingencia") Establecer planes de contingencia en el proceso de acopio del huevo.
+
+      .col-md-6.col-lg-6.col-12.px-md-5(data-aos="fade-left")
+        img(src='@/assets/curso/temas/tema1/tema1-2.svg' alt='')
+
+
+
 </template>
 
 <script>

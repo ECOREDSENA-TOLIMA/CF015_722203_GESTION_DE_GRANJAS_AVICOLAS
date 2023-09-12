@@ -38,7 +38,7 @@
         .col-12.mb-4.mb-md-0
           p Las medidas de peso utilizadas para pesar los huevos ayudan a controlar y verificar la producción de éste, que va haciendo aumentos de un gramo cada 2 o 3 semanas teniendo en cuenta un manejo adecuado de los programas de alimentación y el control del fotoperiodo; controlar el peso favorece la calidad del huevo.  
 
-    p.mb-5(data-aos="flip-down") Según Cobb-vantress (2018), las causas que inciden en el peso del huevo insuficiente o excesivo se describen en la siguiente tabla:
+    p.mb-5.mt-5(data-aos="flip-down") Según Cobb-vantress (2018), las causas que inciden en el peso del huevo insuficiente o excesivo se describen en la siguiente tabla:
 
 
     .row.justify-content-center.align-items-center.mb-5

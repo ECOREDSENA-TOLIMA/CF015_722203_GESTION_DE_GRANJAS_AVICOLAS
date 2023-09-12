@@ -9,7 +9,7 @@
 
     p.mb-5(data-aos="flip-down") El alistamiento de las instalaciones, equipos, insumos para la recolección de huevos permite preparar adecuadamente el producto, y bajo el cumplimiento de parámetros técnicos, se debe tener en cuenta los procedimientos de verificación, las actividades de rutina de la granja, para así poder dar cumplimiento con la normatividad vigente.
 
-    .bloque-texto-g.bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-down")
+    .bloque-texto-g.bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tema2-1.png')})`}"
       )

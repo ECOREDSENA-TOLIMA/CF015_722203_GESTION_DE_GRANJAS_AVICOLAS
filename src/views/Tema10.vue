@@ -9,7 +9,7 @@
 
     p.mb-4(data-aos="flip-down") El empaque, embalaje y rotulado de los huevos de gallina en una granja avícola debe tener en cuenta parámetros y condiciones técnicas específicas, teniendo en cuenta la implementación de la normatividad vigente y los procedimientos de verificación de los huevos en un centro de acopio avícola. 
 
-    .bloque-texto-g.bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-down")
+    .bloque-texto-g.bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema10/tema10-1.png')})`}" 
       ) 

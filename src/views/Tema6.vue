@@ -11,7 +11,7 @@
     p.mb-5(data-aos="flip-down") Acomodar es poner o colocar un producto u objeto en un lugar apropiado de forma cómoda; en el caso del huevo hace referencia a colocarlo de manera adecuada en una bandeja de cartón o plástico para protegerlos de roturas; teniendo en cuenta que el huevo debe ser acomodado con la punta hacia abajo. Para el proceso de acomodación se debe tener en cuenta las características de las bandejas, dependiendo del tamaño y sus dimensiones, en la figura 3, se ilustra sobre algunas especificaciones de las bandejas, por color y medidas de alto: 4 cm, largo: 29 cm y ancho: 29 cm.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-md-10.col-lg-8(data-aos="fade-right")
+      .col-12(data-aos="fade-right")
         .titulo-sexto.color-primario
           p.titulo.pb-0.mb-0 #[b Figura 3.] #[i Características de las bandejas de huevo según tamaño y peso] 
         figure

@@ -29,7 +29,7 @@
     p.mb-5(data-aos="flip-down") La siguiente figura 1 muestra imágenes de sistemas de recolección automática de huevos:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-md-10.col-lg-8(data-aos="fade-right")
+      .col-12.col-lg-10(data-aos="fade-right")
         .titulo-sexto.color-primario
           p.titulo.pb-0.mb-0 #[b Figura 1.] #[i Recolección de huevo] 
         figure

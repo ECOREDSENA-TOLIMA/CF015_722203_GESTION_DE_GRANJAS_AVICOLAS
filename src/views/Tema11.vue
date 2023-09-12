@@ -50,7 +50,7 @@
           p Tiene como objetivo la gestión logística y la prevención de los riesgos, además el registro de la mercancía, los métodos de distribución, la limpieza de la bodega, y la optimización de los espacios, debe tener en cuenta la organización de información sobre la mercancía, dimensiones y peso de la mercancía, número de unidades que se pueden almacenar, espacio necesario para la manipulación y precaución en el transporte.
       .row(titulo="La documentación para el control de bodega")
         .col-12.mb-4.mb-md-0
-          p Se relaciona con el registro de entrada, y de salida y stock de la bodega; con el embalaje teniendo en cuenta materiales que protejan y faciliten la manipulación, la identificación del tipo de mercancía y las instrucciones de manipulación; también es se reconocen los tipos de transporte a utilizar ya sean por rodillos, apiladores y carretillas.
+          p Se relaciona con el registro de entrada, y de salida y #[em stock] de la bodega; con el embalaje teniendo en cuenta materiales que protejan y faciliten la manipulación, la identificación del tipo de mercancía y las instrucciones de manipulación; también es se reconocen los tipos de transporte a utilizar ya sean por rodillos, apiladores y carretillas.
       .row(titulo="El control de huevos en bodega")
         .col-12.mb-4.mb-md-0
           p Se desarrolla llevando registros de inventarios con el fin de identificar falencias y aplicar acciones de mejora para corregirlas a tiempo, tener un archivo o historial de registros para identificar fortalezas en hechos, tiempos y lotes de huevos específicos, que faciliten una mejor producción y plantear así oportunidades de mejoramiento. 
