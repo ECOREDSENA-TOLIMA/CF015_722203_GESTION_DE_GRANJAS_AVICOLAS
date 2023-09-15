@@ -57,7 +57,7 @@
               h5.texto-blanco Registro de control de entradas y salidas.
               p.text-small Podrá visualizar los formatos utilizados a manera de ejemplo para el municipio del Playón, vereda de Aguas Calientes, en el departamento de Santander.
             .col-sm-auto
-              a.boton.color-acento-botones(href="#" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo1_Registro_de_control_de_entradas_y_salidas.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download 
 
@@ -73,7 +73,7 @@
               h5.texto-blanco Formato de trazabilidad del huevo para consumo humano.
               p.text-small Podrá visualizar éste formato, y un ejemplo diligenciado para mayor comprensión.
             .col-sm-auto
-              a.boton.color-acento-botones(href="#" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo2_Formato_de_trazabilidad_del_huevo_para_consumo_humano.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download 
 

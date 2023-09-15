@@ -41,7 +41,7 @@
               p El inventario permanente que tiene como objetivo conocer la mercancía existente, llevar registro de los cambios en el inventario y tener un plan para saber con exactitud cuándo se debe solicitar mercancía y en qué cantidad. 
 
 
-    p.mb-4(data-aos="flip-down") Como el huevo es un producto de la granja avícola, el inventario de huevo es entonces un listado de las existencias que permite hacer el conteo, llevar registro y saber con exactitud la cantidad de huevos por tamaño y peso, y hacer un registro por día y cantidad; el documento del inventario de huevos puede hacerse de forma manual o utilizando software y facilita la gestión de embalaje y ventas optimizando la salida y entrada de huevos.
+    p.mb-4(data-aos="flip-down") Como el huevo es un producto de la granja avícola, el inventario de huevo es entonces un listado de las existencias que permite hacer el conteo, llevar registro y saber con exactitud la cantidad de huevos por tamaño y peso, y hacer un registro por día y cantidad; el documento del inventario de huevos puede hacerse de forma manual o utilizando #[em software] y facilita la gestión de embalaje y ventas optimizando la salida y entrada de huevos.
     p.mb-5(data-aos="flip-down") A continuación, se presenta un recurso de aprendizaje donde entregan elementos claves para el control de bodega y el inventario de huevos:
 
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")

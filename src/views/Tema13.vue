@@ -25,7 +25,7 @@
               h5.texto-blanco Alteraciones internas y externas del huevo.
               p.text-small Podrá consultar cuales son los principales defectos que presentan los huevos a nivel externo o de cascarón, e igualmente a nivel interno.
             .col-sm-auto
-              a.boton.color-acento-botones(href="#" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo3_Alteraciones_internas_y_externas_del_huevo.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download 
 
@@ -51,7 +51,7 @@
               h5.texto-blanco Ejemplo de lista de Verificación de Calidad y Causas y posibles soluciones en la producción de huevos.
               p.text-small Podrá consultar un ejemplo de la lista de verificación de la calidad del producto, así como las causas y posibles soluciones de los huevos en el piso.
             .col-sm-auto
-              a.boton.color-acento-botones(href="#" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo4_Ejemplo_lista_verificacion_de_calidad_y_posibles_soluciones_en_la_produccion_de_huevos.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download 
 
