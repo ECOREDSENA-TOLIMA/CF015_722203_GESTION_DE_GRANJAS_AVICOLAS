@@ -14,10 +14,10 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema11/tema11-1.png')})`}" 
       ) 
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los inventarios de forma general son listas ordenadas de bienes, productos u objetos que son de propiedad de una persona natural o de una empresa; esta lista se organiza en un documento y se le da un uso contable. Ayudan a planificar actividades, acciones y tareas; también facilitan los procesos de comercialización de productos de una empresa en este caso las granjas avícolas.  
+        p.mb-0 Los inventarios de forma general son listas ordenadas de bienes, productos u objetos que son de propiedad de una persona natural o de una empresa; esta lista se organiza en un documento y se le da un uso contable. Ayudan a planificar actividades, acciones y tareas; también facilitan los procesos de comercialización de productos de una empresa, en este caso las granjas avícolas.  
           br
           br
-          | Los inventarios según el Decreto 2649 de 1993, representan bienes corporales destinados a la venta en el curso normal de los negocios, así como aquellos que se hallen en proceso de producción o que se utilizarán o consumirán en la producción de otros que van a ser vendidos. 
+          | Los inventarios, según el Decreto 2649 de 1993, representan bienes corporales destinados a la venta en el curso normal de los negocios, así como aquellos que se hallen en proceso de producción o que se utilizarán o consumirán en la producción de otros que van a ser vendidos. 
 
     p.mb-4(data-aos="flip-down") El control de inventarios es de dos tipos y puede ver la descripción de estos a continuación:
 
@@ -62,7 +62,7 @@
           p Son los mismos métodos de valoración de inventario de las empresas en general regulados por la normatividad contable colombiana. Según el Decreto 2649 de 1993 los métodos utilizados son: “el método PEPS (primeros en entrar, primeros en salir), UEPS (últimos en entrar, primeros en salir), el de identificación específica o el promedio ponderado” (p. 16). 
       .row(titulo="La entrada y salida de huevos")
         .col-12.mb-4.mb-md-0
-          p Se registra en los controles de inventarios de bodega según la clasificación de la NTC 1240 de 2011 por peso (en Jumbo, AAA, AA, A, B y C) y en cada tipo se registra según (Fenavi, 2019) “la fecha, y en las entradas (ENT), la cantidad de huevos que se recogieron ese día, según la clasificación; en salida (SAL), la cantidad que se venden el mismo día, y en total (TOT), el saldo que hay en la bodega. 
+          p Se registra en los controles de inventarios de bodega según la clasificación de la NTC 1240 de 2011 por peso (en Jumbo, AAA, AA, A, B y C) y en cada tipo se registra según (Fenavi, 2019) “la fecha, y en las entradas (ENT), la cantidad de huevos que se recogieron ese día, según la clasificación; en salida (SAL), la cantidad que se venden el mismo día, y en total (TOT), el saldo que hay en la bodega”. 
           p Para sacar el total se debe tomar el total del día anterior, sumarle las entradas y restarle las salidas del día actual.
 
 

@@ -85,7 +85,7 @@
               p.text-center Su envase primario, empaque o embalado, debe estar debidamente identificado o rotulado.
 
 
-    p.mb-4(data-aos="flip-down") Se deben almacenar los huevos aplicando condiciones de bioseguridad para mantener su la calidad, ya sea este de incubación o de mesa, y por tanto facilitar su comercialización. Para ello según la ficha técnica se recomienda acciones a seguir en cuanto a recepción y almacenamiento.
+    p.mb-4(data-aos="flip-down") Se deben almacenar los huevos aplicando condiciones de bioseguridad para mantener su calidad, ya sea este de incubación o de mesa, y por tanto, facilitar su comercialización. Para ello, según la ficha técnica se recomienda acciones a seguir en cuanto a recepción y almacenamiento.
 
 
 </template>

@@ -16,7 +16,7 @@
       .bloque-texto-g__texto.p-5
         p.mb-0 El alistamiento hace referencia a la preparación de instalaciones, equipos e insumos necesarios para los procesos de recolección de huevo en una granja avícola teniendo en cuenta los parámetros técnicos, los criterios de calidad de huevo según la normatividad vigente; para ello se deben establecer procedimientos que permitan la inspección y planteamiento de propuestas de mejora.
 
-    p.mb-3(data-aos="flip-down") En la Resolución 3651 (2014), se establecen requisitos especiales de infraestructura para las áreas de clasificación, almacenamiento, empaque, embalaje y despacho de huevos para consumo humano en granja avícola de postura, la cual debe contar con infraestructura para el “almacenamiento, clasificación y embalaje de los huevos y un sistema para el lavado, desinfección y secado de manos, dentro del área de clasificación de huevo. En el material de apoyo se deja este recurso para su consulta y lectura. 
+    p.mb-3(data-aos="flip-down") En la Resolución 3651 (2014), se establecen requisitos especiales de infraestructura para las áreas de clasificación, almacenamiento, empaque, embalaje y despacho de huevos para consumo humano en granja avícola de postura, la cual debe contar con infraestructura para el “almacenamiento, clasificación y embalaje de los huevos y un sistema para el lavado, desinfección y secado de manos, dentro del área de clasificación de huevo. En el material de apoyo se deja este recurso para su consulta y lectura”. 
     p.mb-5(data-aos="flip-down") En las instalaciones de la granja avícola se debe verificar en el proceso de alistamiento y según Acosta & Jaramillo (2015) se deben realizar las siguientes labores: 
 
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-down")

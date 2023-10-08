@@ -127,7 +127,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema12/tema12-2.png')})`}" 
       ) 
       .bloque-texto-g__texto.p-5
-        p.mb-0 Las indicaciones según (Fenavi, 2019) para el registro de inventario de bodega de huevo son: “la fecha, y en las entradas (ENT), la cantidad de huevos que se recogieron ese día, según la clasificación; en salida (SAL), la cantidad que se venden el mismo día, y en total (TOT), el saldo que hay en la bodega. Para sacar el total se debe tomar el total del día anterior, sumarle las entradas y restarle las salidas del día actual.
+        p.mb-0 Las indicaciones según (Fenavi, 2019) para el registro de inventario de bodega de huevo son: “la fecha, y en las entradas (ENT), la cantidad de huevos que se recogieron ese día, según la clasificación; en salida (SAL), la cantidad que se venden el mismo día, y en total (TOT), el saldo que hay en la bodega. Para sacar el total se debe tomar el total del día anterior, sumarle las entradas y restarle las salidas del día actual”.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-11(data-aos="fade-right")
@@ -196,7 +196,7 @@
 
     p.mb-4(data-aos="fade-down") En este formato de registro se diligencian las casillas correspondientes a la clasificación de los huevos que se realiza por peso teniendo en cuenta la NTC 1240, seguido de la casilla concentrado donde se consigna los consumos o ingresos de bultos de alimento, en la casilla despacho se reporta la cantidad de cubetas y destino de estas para llevar la trazabilidad del huevo comercial; por último, en observaciones se consigna las novedades presentadas en el proceso de recolección de huevo.
 
-    p.mb-4(data-aos="fade-down") Se presentan las recomendaciones para el diligenciamiento del formato de registro mensual de postura, representado en la tabla 9, este registro es muy es muy importante, pues es la hoja de vida de los lotes de postura, muestra cada el comportamiento del lote a nivel de producción, gasto de alimento concentrado y que inventario de animales se tiene. Es el mejor registro a la hora de evaluar un lote en cuanto a eficiencia y rentabilidad.
+    p.mb-4(data-aos="fade-down") Se presentan las recomendaciones para el diligenciamiento del formato de registro mensual de postura, representado en la tabla 9, este registro es muy importante, pues es la hoja de vida de los lotes de postura, muestra cada el comportamiento del lote a nivel de producción, gasto de alimento concentrado y que inventario de animales se tiene. Es el mejor registro a la hora de evaluar un lote en cuanto a eficiencia y rentabilidad.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-11(data-aos="fade-right")

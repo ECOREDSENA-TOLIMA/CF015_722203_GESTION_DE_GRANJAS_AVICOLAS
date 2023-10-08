@@ -7,7 +7,7 @@
         span 14
       h1 Medidas de superficie, longitud, peso y volumen
 
-    p.mb-5(data-aos="flip-down") La aplicación de medidas como superficie, longitud peso y volumen son condiciones necesarias en el proceso de recolección clasificación y acopio del huevo aplicando los procedimientos de verificación e inspección de estos teniendo en cuenta la normatividad vigente, en el siguiente recurso de aprendizaje se describen cada una:
+    p.mb-5(data-aos="flip-down") La aplicación de medidas como superficie, longitud, peso y volumen son condiciones necesarias en el proceso de recolección, clasificación y acopio del huevo, aplicando los procedimientos de verificación e inspección de estos, teniendo en cuenta la normatividad vigente, en el siguiente recurso de aprendizaje se describen cada una:
 
 
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
@@ -75,7 +75,7 @@
                 td Hembras con bajo peso
                 td 
 
-    p.mb-5(data-aos="flip-down") Las medidas como superficie, longitud peso y volumen tienen aplicabilidad en la producción avícola permiten tomar datos para la controlar y evaluar los índices productivos y hacer análisis pertinentes y proponer acciones o planes de mejora con base en los resultados que inciden en la rentabilidad del producto.
+    p.mb-5(data-aos="flip-down") Las medidas como superficie, longitud, peso y volumen tienen aplicabilidad en la producción avícola, permiten tomar datos para controlar y evaluar los índices productivos y hacer análisis pertinentes y proponer acciones o planes de mejora con base en los resultados que inciden en la rentabilidad del producto.
 
 
 </template>
